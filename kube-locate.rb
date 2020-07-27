@@ -1,8 +1,8 @@
 class KubeLocate < Formula
   desc "CLI tool for navigating different contexts and namespaces"
   homepage "https://github.com/senoja/kube-locate"
-  url "https://github.com/senoja/kube-locate/releases/download/v0.1.0/kube-locate-v0.1.0-x86_64-apple-darwin.tar.gz"
-  sha256 "7937e8014af0b09982b90f8a25d22a51042ec9ea3022f307d9be12b1d940a54e"
+  url "https://github.com/senoja/kube-locate/releases/download/v0.1.1/kube-locate-v0.1.1-x86_64-apple-darwin.tar.gz"
+  sha256 "8496fb89d57533557fd9425f841118c134410a0bb5c22f73ebeface1eb68f87d"
   head "https://github.com/senoja/kube-locate.git"
 
   bottle :unneeded
