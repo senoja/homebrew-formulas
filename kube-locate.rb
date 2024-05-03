@@ -5,8 +5,6 @@ class KubeLocate < Formula
   sha256 "8496fb89d57533557fd9425f841118c134410a0bb5c22f73ebeface1eb68f87d"
   head "https://github.com/senoja/kube-locate.git"
 
-  bottle :unneeded
-
   depends_on "kubernetes-cli"
 
   def install
